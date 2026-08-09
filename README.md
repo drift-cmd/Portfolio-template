@@ -26,11 +26,7 @@ A polished, responsive portfolio starter built with React, TypeScript, Tailwind 
 3. Projects section with sample cards and filters
 4. Contact section with form and social links
 
-## 🌐 Live Demo
 
-Open the deployed site here:
-
-- https://drift-cmd.github.io/Portfolio-template/
 
 ## 🚀 Getting Started
 
